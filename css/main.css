@@ -1,0 +1,69 @@
+.marginbus{
+	margin-top:30px}
+
+.sinpad{padding:0px}	
+/*MENU*/
+.backmenu{
+	background-color:#D1D1D1;
+	height:100px;
+	overflow:hidden;}	
+
+.iconmenu{
+	font-size:30px;
+	padding:30px}
+
+nav li{
+	display:inline-block;
+	margin:5px;
+	position:relative;
+	top:50px;}
+
+nav a{
+	color:black;
+	padding:20px}
+
+/*FILA PRIMERA*/
+.btn-primary{
+	background-color:grey;
+	color:#E8E8E8;
+	border-radius:0%;
+	border:none;
+	margin-top:20px}	
+
+.btn-xs{
+	background-color:black;
+	color:white}
+
+.foto{
+	background-color:grey;
+	height:200px;
+	margin-bottom:10px;
+	text-align:center;}
+
+.foto h4{padding-top:90px}	
+
+/*FILA SEGUNDA*/
+.caja{
+	background-color:#D1D1D1;
+	height:400px;
+	width:100%;
+	overflow:hidden;
+	margin-top:25px;
+	padding:0px 20px;}
+
+.btnlargo{
+	width:160px;
+	text-align:left;}
+
+.bvideo{
+	margin:0px 0px 10px 4px
+}
+
+.video{text-align:center;}
+
+.enero{
+	background-color:grey;
+	height:50px;
+	width:50px;
+	text-align:center;
+	margin-top:20px}			
