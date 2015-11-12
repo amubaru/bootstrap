@@ -19,6 +19,7 @@ nav li{
 	top:50px;}
 
 nav a{
+	font-weight: bold;
 	color:black;
 	padding:20px}
 
@@ -56,14 +57,42 @@ nav a{
 	text-align:left;}
 
 .bvideo{
-	margin:0px 0px 10px 4px
-}
+	margin:0px 0px 10px 4px}
 
 .video{text-align:center;}
 
 .enero{
 	background-color:grey;
-	height:50px;
-	width:50px;
-	text-align:center;
+	display:inline-block;
+	height: 61px;
+    width: 75px;
+    text-align:center;
+    margin:20px 10px 0px 0px;
+    padding:3%;
+	float:left;}	
+
+.lorem{
+	font-weight: bolder;
+	display:inline-block;}
+
+.textocaja{
+	margin:16px}
+
+/*FILA TERCERA*/
+
+.magazine{
+	background-color:grey;
+	height:230px;
+	padding:10px;
+	margin-top:30px}
+
+.magazine p{
+	font-size:18px;
+	margin:0px}		
+
+.generacion{
+	background-color:grey;
+	display:table;
+	width:100%;
+	padding:20px;
 	margin-top:20px}			
